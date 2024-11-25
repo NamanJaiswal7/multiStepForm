@@ -1,2 +1,4 @@
 # multiStepForm
-Created with CodeSandbox
+## Steps
+* npm i
+* npm start
